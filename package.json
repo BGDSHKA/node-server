@@ -1,5 +1,5 @@
 {
-  "name": "coke_classification_server",
+  "name": "node_server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
